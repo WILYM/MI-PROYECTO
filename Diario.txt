@@ -1,0 +1,12 @@
+sin avances
+
+28OCt
+entregó offline
+
+30OCt
+tu Readme debe sumarizar el proyecto y dar punteros hacia archivos relevantes
+evita la mayuscula
+serpiente esta mál escrito varias veces
+mejorar la redacción/ortografia
+no haz usado la librería creada en clases Open GL.
+colocar video del juego en el Readme de GitHub
